@@ -1,5 +1,8 @@
 # compilers-lecture
 
+Credits to Professor Victor Rodriguez, original owner of repository.
+This was forked for us to work on homeworks for the compilers course. 
+
 This GIT repository contains a list of workshops and labs for compilers' design
 lecture. The level of complexity is for undergraduate students of computer
 science careers at ITESM university
