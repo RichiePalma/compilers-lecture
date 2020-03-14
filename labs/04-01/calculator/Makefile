@@ -1,6 +1,6 @@
 all:
 	yacc -d calc.y
-	lex calc.l
+	flex calc.l
 	gcc -lfl lex.yy.c y.tab.c y.tab.h -o calc
 
 clean:
